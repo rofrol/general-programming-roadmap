@@ -65,6 +65,8 @@ https://x.com/DanielcHooper/status/1784983115196207425
 6. estymacje są trudne: mnóż x2
 7. Clean Code - Martin Robert C. - to rak
 8. do wcięć kodu używaj spacji zamiast tabów https://github.com/ziglang/zig/wiki/FAQ#why-does-zig-fmt-use-spaces-instead-of-tabs
+9. batching
+10. caching
 
 ## Paradygmaty itp.
 
@@ -163,6 +165,7 @@ https://lubimyczytac.pl/ksiazka/101063/sztuka-kodowania-sekrety-wielkich-program
 2. print debugging
 3. breakpoints i step-by-step, step-inside
 4. [Heisenbug](https://pl.wikipedia.org/wiki/Heisenbug) - np. w asynchronicznym programowaniu
+5. "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?" Brian Kernighan, "The Elements of Programming Style", 2nd edition, chapter 2
 
 ## Algorytmy, ćwiczenia 
 
