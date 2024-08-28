@@ -78,6 +78,7 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 13. parse, don't validate https://news.ycombinator.com/item?id=35053118
 14. RemoteData http://blog.jenkster.com/2016/06/how-elm-slays-a-ui-antipattern.html
 15. camelCase, snake_case
+16. [Making Impossible States Impossible](https://youtube.com/watch?v=IcgmSRJHu_8)
 
 ## Paradygmaty itp.
 
