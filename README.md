@@ -32,6 +32,7 @@
     <details><summary>więcej o git</summary>
     - http://eagain.net/articles/git-for-computer-scientists/
     - https://web.archive.org/web/20230207122614/https://blog.jayway.com/2013/03/03/git-is-a-purely-functional-data-structure/
+    - https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
     </details>
 
 3. sql
