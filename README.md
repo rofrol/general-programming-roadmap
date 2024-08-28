@@ -24,7 +24,7 @@
 
 ## Przydatne
 
-1. bash
+1. cli: bash, env variables, ls, grep and other core utils
 2. git
 3. sql
 
