@@ -1,4 +1,4 @@
-# zacznij-programowanie
+# zacznij programowanie
 
 ## Podstawy
 
