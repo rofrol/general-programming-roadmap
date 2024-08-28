@@ -1,4 +1,4 @@
-# zacznij programowanie
+# Złote zasady programowania
 
 ## Podstawy
 
