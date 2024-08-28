@@ -2,7 +2,7 @@
 
 ## idee
 
-1. złożoność to podstawowy wróg programisty: grug brain developer, KISS, YAGNI.
+1. złożoność to podstawowy wróg programisty: https://grugbrain.dev, KISS, YAGNI.
 
 ## Podstawy
 
@@ -19,18 +19,18 @@
 4. gromadź swoją wiedzę gdzieś: https://obsidian.md - można synchronizować do swojego repozytorium, https://docusaurus.io/
 5. https://roadmap.sh/
 
-## Przydatne
-
-1. bash
-2. git
-3. sql
-
-## Edytor kodu
+## Edytory kodu
 
 1. cursor.sh
 2. vscode
 3. neovim
 4. zed
+
+## Przydatne
+
+1. bash
+2. git
+3. sql
 
 ## Przydatne - następny poziom
 
