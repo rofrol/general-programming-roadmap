@@ -1,5 +1,9 @@
 # zacznij programowanie
 
+## idee
+
+1. złożoność to podstawowy wróg programisty: grug brain developer, KISS, YAGNI.
+
 ## Podstawy
 
 1. wejście-przetwarzanie-wyjście.
@@ -39,7 +43,3 @@
 2. funkcyjny - może być trudne do czytania. Andrew Kelley jest przeciwny
 3. zorientowany obiektowo
 4. język dynamiczny vs typowany
-
-## idee
-
-1. złożoność to podstawowy wróg progrmisty: grug brain developer, KISS, YAGNI.
