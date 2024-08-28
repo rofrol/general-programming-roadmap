@@ -149,6 +149,8 @@ Fitzpatrick: Najczęściej po prostu otwieram edytor i sporządzam notatki dotyc
 Seibel: Czy już po napisaniu kiedykolwiek odkryłeś, że musisz zrewidować swój oryginalny plan?
 
 Fitzpatrick: Czasami. Zawsze jednak zaczynałem pracę od najtrudniejszych elementów lub od koncepcji, których nie byłem pewien — te elementy implementowałem w pierwszej kolejności. Staram się nie odkładać na ostatnią chwilę tego, co najtrudniejsze lub najbardziej zaskakujące; lubię zaczynać od najtrudniejszych aspektów. We wszystkich projektach, których nigdy nie skończyłem — moi znajomi zarzucają mi, że była ich cała masa — faktycznym powodem niepowodzeń było właśnie rozpoczynanie prac od najtrudniejszych elementów, odkrywanie, że muszę się czegoś nauczyć, i ostateczna rezygnacja z realizacji najbardziej nudnych aspektów.
+
+https://lubimyczytac.pl/ksiazka/101063/sztuka-kodowania-sekrety-wielkich-programistow
 </details>
 
 ## Debugowanie
