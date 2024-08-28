@@ -52,6 +52,7 @@ https://x.com/DanielcHooper/status/1784983115196207425
 2. https://danielchasehooper.com/posts/good-ideas-in-cs/
 3. warstwy abstrakcji: https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming), https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)
 4. https://blog.codinghorror.com/the-best-code-is-no-code-at-all/
+5. SCRUM to rak
 
 ## Paradygmaty itp.
 
