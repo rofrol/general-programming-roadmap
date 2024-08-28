@@ -3,7 +3,7 @@
 ## Podstawy
 
 1. wejście-przetwarzanie-wyjście.
-2. każdy program da się napisać instrukcją `if` oraz `while`.
+2. każdy program da się napisać instrukcją `if` oraz `while` (a nawet goto/jump zamiast while).
 3. dane przechowujemy w zmiennej. tablica to ułatwienie dla programisty. to grupa zmiennych do których można się dostać po numerze.
 4. funkcje to ułatwienie dla programisty. grupują powtarzalny kod jak szablon.
 
@@ -34,7 +34,7 @@
 2. system binarny, szestnastkowy itp.
 
 
-## idee
+## Idee
 
 1. złożoność to podstawowy wróg programisty: https://grugbrain.dev, KISS, YAGNI
 
@@ -53,6 +53,7 @@ https://x.com/DanielcHooper/status/1784983115196207425
 3. warstwy abstrakcji: https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming), https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)
 4. https://blog.codinghorror.com/the-best-code-is-no-code-at-all/
 5. SCRUM to rak
+6. do wcięć kodu używaj spacji zamiast tabów https://github.com/ziglang/zig/wiki/FAQ#why-does-zig-fmt-use-spaces-instead-of-tabs
 
 ## Paradygmaty itp.
 
