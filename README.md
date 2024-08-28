@@ -102,7 +102,42 @@ https://x.com/falconerd/status/1788665267708690590
 7. język dynamiczny vs typowany
 8. [ręczne zarządzanie pamięcią](https://en.wikipedia.org/wiki/Manual_memory_management) vs [odśmiecacz pamięci](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
 9. synchroniczne vs asynchroniczne: callback, promise, async/await, observable, channels
-10. TDD bad for exploration and research, awesome when fixing bugs
+10. indexing from 0 vs from 1
+11. Brian Fitzpatrick
+
+<details><summary>więcej o sposobie Briana Fitzpatricka</summary>
+
+Seibel: Jak projektujesz sworogramowanie?
+
+Fitzpatrick: Zaczynam od interfejsów łączących poszczególne elementy. Identyfikuję typowe metody, typowe wywołania RPC lub typowe zapytania. Jeśli chodzi o składowanie danych, staram się określić najbardziej typowe zapytania. Oceniam, których indeksów będziemy potrzebować. Zastanawiam się nad strukturą danych przechowywanych na dysku. Później piszę uproszczone wersje poszczególnych elementów systemu i zaczynam je stopniowo rozwijać.
+
+Seibel: Wykorzystujesz te próbki w roli testów (w myśl zasady: najpierw testy), aby w przyszłości testować rozwijane rozwiązania?
+
+Fitzpatrick: Robię tak coraz częściej. Zawsze projektowałem oprogramowanie w ten sposób, nawet wtedy, gdy nie przywiązywałem wagi do testów. Zaczynałem od projektowania interfejsów i sposobu składowania danych, by następnie przystąpić do właściwej implementacji.
+
+Seibel: Jaką formę przybiera taki projekt? Pseudokodu? Właściwego kodu? Bazgrołów na tablicy?
+
+Fitzpatrick: Najczęściej po prostu otwieram edytor i sporządzam notatki dotyczące projektowanego schematu wraz z elementami pseudokodu. Kiedy projekt w tej formie osiąga stan, który mnie satysfakcjonuje, przygotowuję prawdziwy schemat oraz kopiuję i wklejam gotowe elementy kodu, aby mieć pewność, że przynajmniej wyrażenia create table działają jak należy. Kiedy już wszystko na tym etapie wydaje mi się dopięte na ostatni guzik, przystępuję do implementacji tak zapisanych koncepcji. Zawsze zaczynam od pliku spec.txt.
+
+Seibel: Czy już po napisaniu kiedykolwiek odkryłeś, że musisz zrewidować swój oryginalny plan?
+
+Fitzpatrick: Czasami. Zawsze jednak zaczynałem pracę od najtrudniejszych elementów lub od koncepcji, których nie byłem pewien — te elementy implementowałem w pierwszej kolejności. Staram się nie odkładać na ostatnią chwilę tego, co najtrudniejsze lub najbardziej zaskakujące; lubię zaczynać od najtrudniejszych aspektów. We wszystkich projektach, których nigdy nie skończyłem — moi znajomi zarzucają mi, że była ich cała masa — faktycznym powodem niepowodzeń było właśnie rozpoczynanie prac od najtrudniejszych elementów, odkrywanie, że muszę się czegoś nauczyć, i ostateczna rezygnacja z realizacji najbardziej nudnych aspektów.
+
+https://lubimyczytac.pl/ksiazka/101063/sztuka-kodowania-sekrety-wielkich-programistow
+</details>
+
+## Debugowanie
+
+1. zakomentuj część kodu jak w wyszukiwaniu binarnym
+2. print debugging
+3. breakpoints i step-by-step, step-inside
+4. [Heisenbug](https://pl.wikipedia.org/wiki/Heisenbug) - np. w asynchronicznym programowaniu
+5. "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?" Brian Kernighan, "The Elements of Programming Style", 2nd edition, chapter 2
+
+## Testowanie
+
+1. https://wiki.c2.com/?TestsCantProveTheAbsenceOfBugs
+2. TDD bad for exploration and research, awesome when fixing bugs
 
 <details><summary>więcej o TDD</summary>
 TDD is awesome when fixing bugs (as opposed to writing features), when writing straight up business logic (especially when there are a lot of edge cases) and when you know exactly how something is going to work.
@@ -135,37 +170,6 @@ Test-first units leads to an overly complex web of intermediary objects and indi
 
 https://dhh.dk/2014/tdd-is-dead-long-live-testing.html
 </details>
-
-6. Brian Fitzpatrick
-
-<details><summary>więcej o sposobie Briana Fitzpatricka</summary>
-
-Seibel: Jak projektujesz sworogramowanie?
-
-Fitzpatrick: Zaczynam od interfejsów łączących poszczególne elementy. Identyfikuję typowe metody, typowe wywołania RPC lub typowe zapytania. Jeśli chodzi o składowanie danych, staram się określić najbardziej typowe zapytania. Oceniam, których indeksów będziemy potrzebować. Zastanawiam się nad strukturą danych przechowywanych na dysku. Później piszę uproszczone wersje poszczególnych elementów systemu i zaczynam je stopniowo rozwijać.
-
-Seibel: Wykorzystujesz te próbki w roli testów (w myśl zasady: najpierw testy), aby w przyszłości testować rozwijane rozwiązania?
-
-Fitzpatrick: Robię tak coraz częściej. Zawsze projektowałem oprogramowanie w ten sposób, nawet wtedy, gdy nie przywiązywałem wagi do testów. Zaczynałem od projektowania interfejsów i sposobu składowania danych, by następnie przystąpić do właściwej implementacji.
-
-Seibel: Jaką formę przybiera taki projekt? Pseudokodu? Właściwego kodu? Bazgrołów na tablicy?
-
-Fitzpatrick: Najczęściej po prostu otwieram edytor i sporządzam notatki dotyczące projektowanego schematu wraz z elementami pseudokodu. Kiedy projekt w tej formie osiąga stan, który mnie satysfakcjonuje, przygotowuję prawdziwy schemat oraz kopiuję i wklejam gotowe elementy kodu, aby mieć pewność, że przynajmniej wyrażenia create table działają jak należy. Kiedy już wszystko na tym etapie wydaje mi się dopięte na ostatni guzik, przystępuję do implementacji tak zapisanych koncepcji. Zawsze zaczynam od pliku spec.txt.
-
-Seibel: Czy już po napisaniu kiedykolwiek odkryłeś, że musisz zrewidować swój oryginalny plan?
-
-Fitzpatrick: Czasami. Zawsze jednak zaczynałem pracę od najtrudniejszych elementów lub od koncepcji, których nie byłem pewien — te elementy implementowałem w pierwszej kolejności. Staram się nie odkładać na ostatnią chwilę tego, co najtrudniejsze lub najbardziej zaskakujące; lubię zaczynać od najtrudniejszych aspektów. We wszystkich projektach, których nigdy nie skończyłem — moi znajomi zarzucają mi, że była ich cała masa — faktycznym powodem niepowodzeń było właśnie rozpoczynanie prac od najtrudniejszych elementów, odkrywanie, że muszę się czegoś nauczyć, i ostateczna rezygnacja z realizacji najbardziej nudnych aspektów.
-
-https://lubimyczytac.pl/ksiazka/101063/sztuka-kodowania-sekrety-wielkich-programistow
-</details>
-
-## Debugowanie
-
-1. zakomentuj część kodu jak w wyszukiwaniu binarnym
-2. print debugging
-3. breakpoints i step-by-step, step-inside
-4. [Heisenbug](https://pl.wikipedia.org/wiki/Heisenbug) - np. w asynchronicznym programowaniu
-5. "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?" Brian Kernighan, "The Elements of Programming Style", 2nd edition, chapter 2
 
 ## Algorytmy, ćwiczenia 
 
