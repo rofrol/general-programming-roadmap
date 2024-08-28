@@ -1,4 +1,4 @@
-# Złote zasady programowania
+# Ogólny drogowskaz programowania
 
 ## Podstawy
 
