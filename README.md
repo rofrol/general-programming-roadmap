@@ -51,6 +51,7 @@ https://x.com/DanielcHooper/status/1784983115196207425
 
 2. https://danielchasehooper.com/posts/good-ideas-in-cs/
 3. warstwy abstrakcji: https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming), https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)
+4. https://blog.codinghorror.com/the-best-code-is-no-code-at-all/
 
 ## Paradygmaty itp.
 
@@ -150,3 +151,28 @@ Fitzpatrick: Czasami. Zawsze jednak zaczynałem pracę od najtrudniejszych eleme
 2. https://leetcode.com/studyplan/
 3. https://x.com/NeetAcc/status/1828059231120961655
 4. https://x.com/NeetAcc/status/1828111694616559719
+
+## Zdrowie
+
+1. sen, odpoczynek, skupienie
+
+<details><summary>więcej o zdrowiu</summary>
+
+One of my most controversial software opinions is that your sleep quality and stress level matter far, far more than the languages you use or the practices you follow. Nothing else comes close: not type systems, not TDD, not formal methods, not ANYTHING.
+
+https://twitter.com/hillelogram/status/1119709859979714560
+
+By reanalyzing the data, she and her colleagues made two key findings. First, they found that the volunteers’ performance improved primarily during the short rests, and not during typing. The improvements made during the rest periods added up to the overall gains the volunteers made that day. Moreover, these gains were much greater than the ones seen after the volunteers returned the next day to try again, suggesting that the early breaks played as critical a role in learning as the practicing itself.
+Second, by looking at the brain waves, Dr. Bönstrup found activity patterns that suggested the volunteers’ brains were consolidating, or solidifying, memories during the rest periods. Specifically, they found that the changes in the size of brain waves, called beta rhythms, correlated with the improvements the volunteers made during the rests.
+Further analysis suggested that the changes in beta oscillations primarily happened in the right hemispheres of the volunteers’ brains and along neural networks connecting the frontal and parietal lobes that are known to help control the planning of movements. These changes only happened during the breaks and were the only brain wave patterns that correlated with performance. 
+“Our results suggest that it may be important to optimize the timing and configuration of rest intervals when implementing rehabilitative treatments in stroke patients or when learning to play the piano in normal volunteers,” said Dr. Cohen. “Whether these results apply to other forms of learning and memory formation remains an open question.”
+Dr. Cohen’s team plans to explore, in greater detail, the role of these early resting periods in learning and memory.
+https://www.ninds.nih.gov/.../Want-learn-new-skill-Take...
+
+via https://news.ycombinator.com/item?id=19661949
+
+Remote work taught me that working in batches can really drive up my efficiency. 2.5 hours at the start of the day, a half hour break, then another period of work about the same length, and then finally one more. I find this breaks up things and allows the 'down time' to settle in my head so I can come back and prep to get "in the zone" for another two hour purely focused work period. All that ties in wonderfully to his routine keeping, which is a great template to work with.
+It helps to shut off all notifications on your phone or computer as well, including email. 
+
+https://news.ycombinator.com/item?id=19953854
+</details>
