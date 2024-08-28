@@ -50,7 +50,7 @@
 6. język dynamiczny vs typowany
 7. TDD bad for exploration and research, awesome when fixing bugs
 
-<details><summary>więcej</summary>
+<details><summary>więcej o TDD</summary>
 TDD is awesome when fixing bugs (as opposed to writing features), when writing straight up business logic (especially when there are a lot of edge cases) and when you know exactly how something is going to work.
 
 It's really bad when doing anything that requires exploration and research (which is the example in the article).
@@ -84,7 +84,7 @@ https://dhh.dk/2014/tdd-is-dead-long-live-testing.html
 
 6. Brian Fitzpatrick
 
-<details><summary>jego sposób</summary>
+<details><summary>więcej o sposobie Briana Fitzpatricka</summary>
 
 Seibel: Jak projektujesz sworogramowanie?
 
