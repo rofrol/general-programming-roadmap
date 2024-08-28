@@ -13,7 +13,10 @@
 2. aby dobrze poznać język programowania, trzeba napisać w nim duży projekt np. 100k linii kodu.
 3. najlepiej się uczyć robiąc projekty np. https://www.udemy.com/course/nauka-pythona-poprzez-tworzenie-gier-w-pygame-zero/
 4. gromadź swoją wiedzę gdzieś: github markdown, https://obsidian.md - można synchronizować do swojego repozytorium git, https://docusaurus.io/
-5. https://roadmap.sh/
+5. https://web.archive.org/web/20150204191826/https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
+6. [Teach Yourself Programming in Ten Years - Peter Norvig](https://norvig.com/21-days.html)
+7. https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast
+8. https://roadmap.sh/
 
 ## Edytory kodu
 
@@ -107,8 +110,6 @@ https://x.com/falconerd/status/1788665267708690590
 8. [ręczne zarządzanie pamięcią](https://en.wikipedia.org/wiki/Manual_memory_management) vs [odśmiecacz pamięci](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
 9. synchroniczne vs asynchroniczne: more coupled to less coupled: callback -> one value: promise, async/await, multiple values: observable -> channels
 10. indexing from 0 vs from 1
-11. [Teach Yourself Programming in Ten Years - Peter Norvig](https://norvig.com/21-days.html)
-12. https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast
 
 ## Debugowanie
 
