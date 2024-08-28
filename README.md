@@ -24,7 +24,7 @@
 
 ## Przydatne
 
-1. cli: bash, env variables, ls, grep i inne z coreutils
+1. cli: bash, env variables, ls, grep (ripgrep), find (sharkdp/fd), xargs i inne z coreutils
 2. git
 3. sql
 
