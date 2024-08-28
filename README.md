@@ -94,6 +94,7 @@ What's the point of this ideology masquerading as an engineering discipline if i
 
 https://x.com/falconerd/status/1788665267708690590
 </details>
+
 7. język dynamiczny vs typowany
 8. TDD bad for exploration and research, awesome when fixing bugs
 
