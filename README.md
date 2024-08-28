@@ -60,9 +60,11 @@ https://x.com/DanielcHooper/status/1784983115196207425
 
 2. https://danielchasehooper.com/posts/good-ideas-in-cs/
 3. warstwy abstrakcji: [Abstraction principle](https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming)), [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming))
-4. SCRUM to rak
-5. Clean Code - Martin Robert C. - to rak
-6. do wcięć kodu używaj spacji zamiast tabów https://github.com/ziglang/zig/wiki/FAQ#why-does-zig-fmt-use-spaces-instead-of-tabs
+4. waterfall vs agile
+5. SCRUM to rak
+6. estymacje są trudne: mnóż x2
+7. Clean Code - Martin Robert C. - to rak
+8. do wcięć kodu używaj spacji zamiast tabów https://github.com/ziglang/zig/wiki/FAQ#why-does-zig-fmt-use-spaces-instead-of-tabs
 
 ## Paradygmaty itp.
 
