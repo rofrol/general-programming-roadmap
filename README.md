@@ -9,8 +9,8 @@
 
 ## Nauka
 
-1. ucz się na początek jednego języka prograomwania, aż go dobrze poznasz.
-2. aby dobrze poznać język prograomwania, trzeba napisać w nim duży projekt np. 100k linii kodu.
+1. ucz się na początek jednego języka programowania, aż go dobrze poznasz.
+2. aby dobrze poznać język programowania, trzeba napisać w nim duży projekt np. 100k linii kodu.
 3. najlepiej się uczyć robiąc projekty.
 
 ## Przydatne
