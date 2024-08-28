@@ -97,7 +97,8 @@ https://x.com/falconerd/status/1788665267708690590
 
 7. język dynamiczny vs typowany
 8. [ręczne zarządzanie pamięcią](https://en.wikipedia.org/wiki/Manual_memory_management) vs [odśmiecacz pamięci](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
-9. TDD bad for exploration and research, awesome when fixing bugs
+9. synchroniczne vs asynchroniczne: callback, promise, async/await, observable, channels
+10. TDD bad for exploration and research, awesome when fixing bugs
 
 <details><summary>więcej o TDD</summary>
 TDD is awesome when fixing bugs (as opposed to writing features), when writing straight up business logic (especially when there are a lot of edge cases) and when you know exactly how something is going to work.
@@ -159,6 +160,7 @@ https://lubimyczytac.pl/ksiazka/101063/sztuka-kodowania-sekrety-wielkich-program
 1. zakomentuj część kodu jak w wyszukiwaniu binarnym
 2. print debugging
 3. breakpoints i step-by-step, step-inside
+4. [Heisenbug](https://pl.wikipedia.org/wiki/Heisenbug) - np. w asynchronicznym programowaniu
 
 ## Algorytmy, ćwiczenia 
 
