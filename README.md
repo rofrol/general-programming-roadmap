@@ -162,7 +162,7 @@ Fitzpatrick: Czasami. Zawsze jednak zaczynałem pracę od najtrudniejszych eleme
 
 ## Zdrowie
 
-1. sen, odpoczynek, skupienie
+1. sen, odpoczynek, skupienie, podnoszenie ciężarów/kalistenika/sztuki walki
 
 <details><summary>więcej o zdrowiu</summary>
 
