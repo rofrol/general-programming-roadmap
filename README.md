@@ -110,6 +110,7 @@ https://x.com/falconerd/status/1788665267708690590
 8. [ręczne zarządzanie pamięcią](https://en.wikipedia.org/wiki/Manual_memory_management) vs [odśmiecacz pamięci](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
 9. synchroniczne vs asynchroniczne: more coupled to less coupled: callback -> one value: promise, async/await, multiple values: observable -> channels
 10. indexing from 0 vs from 1
+11. https://pl.m.wikipedia.org/wiki/Architektura_wielowarstwowa
 
 ## Debugowanie
 
