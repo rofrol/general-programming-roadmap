@@ -104,7 +104,8 @@ https://x.com/falconerd/status/1788665267708690590
 8. [ręczne zarządzanie pamięcią](https://en.wikipedia.org/wiki/Manual_memory_management) vs [odśmiecacz pamięci](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
 9. synchroniczne vs asynchroniczne: callback, promise, async/await, observable, channels
 10. indexing from 0 vs from 1
-11. Brian Fitzpatrick
+11. [Teach Yourself Programming in Ten Years - Peter Norvig](https://norvig.com/21-days.html)
+12. Brian Fitzpatrick
 
 <details><summary>więcej o sposobie Briana Fitzpatricka</summary>
 
