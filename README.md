@@ -38,6 +38,7 @@
 1. imperatywny
 2. funkcyjny - może być trudne do czytania. Andrew Kelley jest przeciwny
 3. zorientowany obiektowo
+4. język dynamiczny vs typowany
 
 ## idee
 
