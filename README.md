@@ -37,9 +37,22 @@
 1. wyrażenia regularne
 2. system binarny, szestnastkowy itp.
 
-## paradygmaty
+## Paradygmaty
 
 1. imperatywny
 2. funkcyjny - może być trudne do czytania. Andrew Kelley jest przeciwny
 3. zorientowany obiektowo
 4. język dynamiczny vs typowany
+
+## Debugowanie
+
+1. zakomentuj część kodu jak w wyszukiwaniu binarnym
+2. print debugging
+3. breakpoints i step-by-step, step-inside
+
+## Algorytmy, ćwiczenia 
+
+1. https://exercism.org/
+2. https://leetcode.com/studyplan/
+3. https://x.com/NeetAcc/status/1828059231120961655
+4. https://x.com/NeetAcc/status/1828111694616559719
