@@ -53,7 +53,8 @@ https://x.com/DanielcHooper/status/1784983115196207425
 3. warstwy abstrakcji: https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming), https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)
 4. https://blog.codinghorror.com/the-best-code-is-no-code-at-all/
 5. SCRUM to rak
-6. do wcięć kodu używaj spacji zamiast tabów https://github.com/ziglang/zig/wiki/FAQ#why-does-zig-fmt-use-spaces-instead-of-tabs
+6. Clean Code - Martin Robert C. - to rak
+7. do wcięć kodu używaj spacji zamiast tabów https://github.com/ziglang/zig/wiki/FAQ#why-does-zig-fmt-use-spaces-instead-of-tabs
 
 ## Paradygmaty itp.
 
