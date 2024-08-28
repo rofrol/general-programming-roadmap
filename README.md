@@ -18,8 +18,18 @@
 1. bash
 2. git
 3. sql
-4. wyrażenia regularne
-5. system binarny, szestnastkowy itp.
+
+## Edytor kodu
+
+1. cursor.sh
+2. vscode
+3. neovim
+4. zed
+
+## Przydatne - następny poziom
+
+1. wyrażenia regularne
+2. system binarny, szestnastkowy itp.
 
 ## paradygmaty
 
