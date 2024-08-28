@@ -61,7 +61,7 @@ https://x.com/DanielcHooper/status/1784983115196207425
 1. imperatywny
 2. funkcyjny - może być trudne do czytania i zarządzania jak dużo lambd.
 
-<details><summary>Andrew Kelley jest przeciwny</summary>Finally, I personally despise the functional programming style that uses lambdas everywhere. I find it very difficult to read and maintain code that makes heavy use of inversion of control flow. By not accepting this proposal, Zig will continue to encourage programmers to stick to an imperative programming style, using for loops and iterators. https://github.com/ziglang/zig/issues/1717#issuecomment-1627790251</details>
+<details><summary>Andrew Kelley o programowaniu funkcyjnym</summary>Finally, I personally despise the functional programming style that uses lambdas everywhere. I find it very difficult to read and maintain code that makes heavy use of inversion of control flow. By not accepting this proposal, Zig will continue to encourage programmers to stick to an imperative programming style, using for loops and iterators. https://github.com/ziglang/zig/issues/1717#issuecomment-1627790251</details>
    
 5. zorientowany obiektowo OOP
 
