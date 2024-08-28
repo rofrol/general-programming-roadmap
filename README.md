@@ -24,7 +24,10 @@
 
 ## Przydatne
 
-1. cli: bash, env variables, ls, grep (ripgrep), find (sharkdp/fd), xargs i inne z coreutils
+1. linia komend (cli)
+    <details><summary>więcej o linii komend</summary>
+    bash, env variables, ls, grep (ripgrep), find (sharkdp/fd), xargs i inne z coreutils
+    </details>
 2. git
     <details><summary>więcej o git</summary>
     - http://eagain.net/articles/git-for-computer-scientists/
