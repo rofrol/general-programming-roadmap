@@ -70,6 +70,7 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 8. do wcięć kodu używaj spacji zamiast tabów https://github.com/ziglang/zig/wiki/FAQ#why-does-zig-fmt-use-spaces-instead-of-tabs
 9. batching
 10. caching
+11. REST vs RPC
 
 ## Paradygmaty itp.
 
