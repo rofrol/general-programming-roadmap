@@ -67,7 +67,7 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 2. https://danielchasehooper.com/posts/good-ideas-in-cs/
 3. warstwy abstrakcji: [Abstraction principle](https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming)), [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming))
 4. waterfall vs agile
-5. SCRUM to rak
+5. SCRUM to zwykle rak
 6. estymacje są trudne: mnóż x2
 7. Clean Code - Martin Robert C. - to rak
 8. do wcięć kodu używaj spacji zamiast tabów https://github.com/ziglang/zig/wiki/FAQ#why-does-zig-fmt-use-spaces-instead-of-tabs
@@ -78,7 +78,7 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 13. parse, don't validate https://news.ycombinator.com/item?id=35053118
 14. RemoteData http://blog.jenkster.com/2016/06/how-elm-slays-a-ui-antipattern.html
 15. camelCase, snake_case
-16. [Making Impossible States Impossible](https://youtube.com/watch?v=IcgmSRJHu_8)
+16. [Making Impossible States Impossible - Richard Feldman](https://youtube.com/watch?v=IcgmSRJHu_8)
 17. [The life of a file - Evan Czaplicki](https://youtube.com/watch?v=IcgmSRJHu_8)
 
 ## Paradygmaty itp.
