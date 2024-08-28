@@ -74,6 +74,7 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 9. batching
 10. caching
 11. REST vs RPC
+12. Show me your code and conceal your data structures, and I shall continue to be mystified. Show me your data structures, and I won't usually need your code; it'll be obvious https://lwn.net/Articles/193244/ https://medium.com/webdevops/data-structures-548cbea9c520
 
 ## Paradygmaty itp.
 
