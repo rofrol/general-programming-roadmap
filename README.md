@@ -36,7 +36,7 @@
 
 ## idee
 
-1. złożoność to podstawowy wróg programisty: https://grugbrain.dev, KISS, YAGNI.
+1. złożoność to podstawowy wróg programisty: https://grugbrain.dev, KISS, YAGNI, https://news.ycombinator.com/item?id=40509572
 2. https://danielchasehooper.com/posts/good-ideas-in-cs/
 
 ## Paradygmaty itp.
@@ -48,9 +48,15 @@
    
 5. zorientowany obiektowo
 6. język dynamiczny vs typowany
-7. TDD bad
+7. TDD bad for exploration and research, awesome when fixing bugs
 
 <details><summary>więcej</summary>
+TDD is awesome when fixing bugs (as opposed to writing features), when writing straight up business logic (especially when there are a lot of edge cases) and when you know exactly how something is going to work.
+
+It's really bad when doing anything that requires exploration and research (which is the example in the article).
+
+https://news.ycombinator.com/item?id=20976486
+
 I work for a Danish municipality and we buy quite a lot of development from various software houses. Being the public sector we track and benchmark almost everything, and we actually have a dataset on automated testing that’s been running for two decades.
 It’s hard to use the data, because we’re comparing different projects, teams and suppliers but our data shows no advantage in choosing the companies that are very test-focused.
 They are often slower, more expensive but have the same amount of incident reports as the companies which tests less or doesn’t do automated test at all.
