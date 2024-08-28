@@ -26,6 +26,11 @@
 
 1. cli: bash, env variables, ls, grep (ripgrep), find (sharkdp/fd), xargs i inne z coreutils
 2. git
+    <details><summary>więcej o git</summary>
+    - http://eagain.net/articles/git-for-computer-scientists/
+    - https://web.archive.org/web/20230207122614/https://blog.jayway.com/2013/03/03/git-is-a-purely-functional-data-structure/
+    </details>
+
 3. sql
 
 ## Przydatne - następny poziom
