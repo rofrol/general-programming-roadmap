@@ -59,7 +59,7 @@ https://x.com/DanielcHooper/status/1784983115196207425
 </details>
 
 2. https://danielchasehooper.com/posts/good-ideas-in-cs/
-3. warstwy abstrakcji: https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming), https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)
+3. warstwy abstrakcji: [Abstraction principle](https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming)), [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming))
 4. SCRUM to rak
 5. Clean Code - Martin Robert C. - to rak
 6. do wcięć kodu używaj spacji zamiast tabów https://github.com/ziglang/zig/wiki/FAQ#why-does-zig-fmt-use-spaces-instead-of-tabs
@@ -96,7 +96,8 @@ https://x.com/falconerd/status/1788665267708690590
 </details>
 
 7. język dynamiczny vs typowany
-8. TDD bad for exploration and research, awesome when fixing bugs
+8. [ręczne zarządzanie pamięcią](https://en.wikipedia.org/wiki/Manual_memory_management) vs [odśmiecacz pamięci](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
+9. TDD bad for exploration and research, awesome when fixing bugs
 
 <details><summary>więcej o TDD</summary>
 TDD is awesome when fixing bugs (as opposed to writing features), when writing straight up business logic (especially when there are a lot of edge cases) and when you know exactly how something is going to work.
