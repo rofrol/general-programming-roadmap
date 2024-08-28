@@ -6,8 +6,12 @@
 2. każdy program da się napisać instrukcją `if` oraz `while`.
 3. dane przechowujemy w zmiennej. tablica to ułatwienie dla programisty. to grupa zmiennych do których można się dostać po numerze.
 4. funkcje to ułatwienie dla programisty. grupują powtarzalny kod jak szablon.
-5. ucz się na początek jednego języka prograomwania, aż go dobrze poznasz.
-6. aby dobrze poznać język prograomwania, trzeba napisać w nim duży projekt np. 100k linii kodu.
+
+## Nauka
+
+1. ucz się na początek jednego języka prograomwania, aż go dobrze poznasz.
+2. aby dobrze poznać język prograomwania, trzeba napisać w nim duży projekt np. 100k linii kodu.
+3. najlepiej się uczyć robiąc projekty.
 
 ## Przydatne
 
