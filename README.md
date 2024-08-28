@@ -1,4 +1,4 @@
-# Ogólny drogowskaz programowania
+# Ogólny plan nauki programowania
 
 ## Podstawy
 
