@@ -36,8 +36,21 @@
 
 ## idee
 
-1. złożoność to podstawowy wróg programisty: https://grugbrain.dev, KISS, YAGNI, https://news.ycombinator.com/item?id=40509572
+1. złożoność to podstawowy wróg programisty: https://grugbrain.dev, KISS, YAGNI
+
+<details><summary>więcej o złożoności</summary>
+
+Theres a difference between the inherent complexity of the problem you're trying to solve, and the artificial complexity you created by the way you wrote the code.
+https://x.com/DanielcHooper/status/1784983115196207425
+   
+- https://news.ycombinator.com/item?id=40509572
+- https://x.com/ohmypy/status/1801218479695053135
+- https://news.ycombinator.com/item?id=40266464
+- https://x.com/juliusvolz/status/1769702037913030885
+</details>
+
 2. https://danielchasehooper.com/posts/good-ideas-in-cs/
+3. warstwy abstrakcji: https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming), https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)
 
 ## Paradygmaty itp.
 
@@ -46,9 +59,31 @@
 
 <details><summary>Andrew Kelley jest przeciwny</summary>Finally, I personally despise the functional programming style that uses lambdas everywhere. I find it very difficult to read and maintain code that makes heavy use of inversion of control flow. By not accepting this proposal, Zig will continue to encourage programmers to stick to an imperative programming style, using for loops and iterators. https://github.com/ziglang/zig/issues/1717#issuecomment-1627790251</details>
    
-5. zorientowany obiektowo
-6. język dynamiczny vs typowany
-7. TDD bad for exploration and research, awesome when fixing bugs
+5. zorientowany obiektowo OOP
+
+<details><summary>więcej o OOP</summary>
+Even if Object Oriented Programming wasn't slow (it is), reading a OOP-heavy code base sucks because the logic is broken into little pieces and spread all over. Makes it hard to understand the system as a whole.
+
+Theres a difference between the inherent complexity of the problem you're trying to solve, and the artificial complexity you created by the way you wrote the code. 
+
+The *whole point* of OOP is to break up logic and data into lots of little objects and have them all talk to each other. So now you have to understand the logic of the problem you're solving *AND* the structure of all the objects you made.
+
+For comparison: Data Oriented Design results in code that very closely matches the minimum amount of computation required by your problem — it doesn't layer on a bunch of unnecessary indirection.
+
+https://x.com/DanielcHooper/status/1784983115196207425
+
+What you get when you follow OOP properly:
+
+- A bunch more code
+- A bunch more complexity
+- A whole lot less performance
+
+What's the point of this ideology masquerading as an engineering discipline if it just makes your life harder?
+
+https://x.com/falconerd/status/1788665267708690590
+</details>
+7. język dynamiczny vs typowany
+8. TDD bad for exploration and research, awesome when fixing bugs
 
 <details><summary>więcej o TDD</summary>
 TDD is awesome when fixing bugs (as opposed to writing features), when writing straight up business logic (especially when there are a lot of edge cases) and when you know exactly how something is going to work.
