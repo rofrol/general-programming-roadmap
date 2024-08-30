@@ -17,6 +17,7 @@
 6. [Teach Yourself Programming in Ten Years - Peter Norvig](https://norvig.com/21-days.html)
 7. https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast
 8. https://roadmap.sh/
+9. https://github.com/sjpiper145/MakerSkillTree/blob/main/Coding%20Skill%20Tree/Coding%20Skill%20Tree.pdf
 
 ## Edytory kodu
 
