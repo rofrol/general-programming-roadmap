@@ -92,6 +92,9 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 5. programowanie zorientowane obiektowo (OOP)
 
 <details><summary>więcej o OOP</summary>
+
+[Jonathan Blow on the Problem with Object Oriented](https://www.youtube.com/watch?v=04ksL1hf_p8)
+
 Even if Object Oriented Programming wasn't slow (it is), reading a OOP-heavy code base sucks because the logic is broken into little pieces and spread all over. Makes it hard to understand the system as a whole.
 
 Theres a difference between the inherent complexity of the problem you're trying to solve, and the artificial complexity you created by the way you wrote the code. 
