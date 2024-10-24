@@ -121,6 +121,7 @@ https://x.com/falconerd/status/1788665267708690590
 9. synchroniczne vs asynchroniczne: more coupled to less coupled: callback -> one value: promise, async/await, multiple values: observable -> channels
 10. indexing from 0 vs from 1
 11. https://pl.m.wikipedia.org/wiki/Architektura_wielowarstwowa
+12. [Data-Oriented Design (DOD) lepsze niż Resource Acquisition Is Initialization (RAII)](https://kristoff.it/blog/raii-rust-linux/)
 
 ## Debugowanie
 
