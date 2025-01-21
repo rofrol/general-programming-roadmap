@@ -123,7 +123,17 @@ https://x.com/SebAaltonen/status/1848251209129275789
 9. synchroniczne vs asynchroniczne: more coupled to less coupled: callback -> one value: promise, async/await, multiple values: observable -> channels
 10. indexing from 0 vs from 1
 11. https://pl.m.wikipedia.org/wiki/Architektura_wielowarstwowa
-12. [Data-Oriented Design (DOD) lepsze niż Resource Acquisition Is Initialization (RAII)](https://kristoff.it/blog/raii-rust-linux/), [Replace RAII with batch operations](https://lobste.rs/s/i6khvj/introduction_zig#c_talzv2) 
+
+## Data-Oriented Design (DOD) lepsze niż Resource Acquisition Is Initialization (RAII)
+
+- [RAII and the Rust/Linux Drama](https://kristoff.it/blog/raii-rust-linux/
+- [Replace RAII with batch operations](https://lobste.rs/s/i6khvj/introduction_zig#c_talzv2)
+
+ I would often find STL containers as the root of a performance issue, only to have to rewrite those segments of code to an optimised pure C equivalent.
+
+There is nothing wrong with those containers, or their implementation, but they hide the dynamic memory allocation and de-allocation they carry out for you. 
+
+https://www.cowleyforniastudios.com/2025/1/20/choosing-c
 
 ## Debugowanie
 
