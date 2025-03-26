@@ -87,7 +87,24 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 1. imperatywny
 2. funkcyjny - może być trudne do czytania i zarządzania jak dużo lambd.
 
-<details><summary>Andrew Kelley o programowaniu funkcyjnym</summary>Finally, I personally despise the functional programming style that uses lambdas everywhere. I find it very difficult to read and maintain code that makes heavy use of inversion of control flow. By not accepting this proposal, Zig will continue to encourage programmers to stick to an imperative programming style, using for loops and iterators. https://github.com/ziglang/zig/issues/1717#issuecomment-1627790251</details>
+<details><summary>więcej</summary>
+
+Andrew Kelley o programowaniu funkcyjnym
+
+Finally, I personally despise the functional programming style that uses lambdas everywhere. I find it very difficult to read and maintain code that makes heavy use of inversion of control flow. By not accepting this proposal, Zig will continue to encourage programmers to stick to an imperative programming style, using for loops and iterators. https://github.com/ziglang/zig/issues/1717#issuecomment-1627790251
+
+Casey Muratori:
+
+I do not think functional programming is the proper model for programming. I think it can be a useful way to think about subsets of a program, but it is not appropriate for large-scale work.
+
+the practical behavior of modern computing systems is procedural, not functional, and so it does not benefit you to adopt functional constraints for designing a system. But it's fine for parts of the system that fit within those constraints more naturally.
+
+Broadly, I tend to want to program the hardware, so I want something that allows me to easily express what machine code I wanted. I don't want to have to fight the language or compiler to have the CPU do what I intended.
+
+Anything that I have to think about that isn't something the CPU is actually doing is a hindrance and makes me less happy about programming. I know what I want it to do, and I want that to be as efficient as possible to express.
+
+https://x.com/cmuratori/status/1887199163932439035
+</details>
    
 5. programowanie zorientowane obiektowo (OOP)
 
