@@ -251,3 +251,7 @@ It helps to shut off all notifications on your phone or computer as well, includ
 
 https://news.ycombinator.com/item?id=19953854
 </details>
+
+## Inne
+
+- [Thorsten Ball - Programming Principles](https://x.com/thorstenball/status/1904602053634383901)
