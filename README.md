@@ -17,7 +17,8 @@
 6. [Teach Yourself Programming in Ten Years - Peter Norvig](https://norvig.com/21-days.html)
 7. Performance from the beginning
  <details><summary>więcej</summary>
-    contradictory to https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast
+  
+contradictory to https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast
 
 Ryan Fleury:
 
