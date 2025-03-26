@@ -19,13 +19,16 @@
  <details><summary>więcej</summary>
     contradictory to https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast
 
-Ryan Fleury
+Ryan Fleury:
 
 “Make it work, then make it fast” as a guiding principle has done an enormous amount of damage to software. It’s slightly easier to accept if the software in question actually works despite being slow. In practice, it’s used to justify mediocrity, and a lack of understanding and responsibility, and thus the software ends up barely working, or not working at all, *and* wasting a ton of user time.
 
 It’s always a constraint solving problem. You place all screws first, then tighten them all. Performance is one such screw. If you never expose your solution to that constraint, your solution will never be performant. I refuse to accept the idea that you should always place that screw last.
 
 https://x.com/ryanjfleury/status/1904295630761251119
+
+- https://www.rfleury.com/p/programmers-are-users-bad-performance
+- https://www.computerenhance.com/p/performance-excuses-debunked
     </details>
     
 
