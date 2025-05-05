@@ -218,7 +218,7 @@ Test-first units leads to an overly complex web of intermediary objects and indi
 
 <details><summary>więcej o sposobie Briana Fitzpatricka</summary>
 
-Seibel: Jak projektujesz sworogramowanie?
+Seibel: Jak projektujesz swoje oprogramowanie?
 
 Fitzpatrick: Zaczynam od interfejsów łączących poszczególne elementy. Identyfikuję typowe metody, typowe wywołania RPC lub typowe zapytania. Jeśli chodzi o składowanie danych, staram się określić najbardziej typowe zapytania. Oceniam, których indeksów będziemy potrzebować. Zastanawiam się nad strukturą danych przechowywanych na dysku. Później piszę uproszczone wersje poszczególnych elementów systemu i zaczynam je stopniowo rozwijać.
 
