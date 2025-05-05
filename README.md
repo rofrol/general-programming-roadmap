@@ -69,7 +69,7 @@ It’s always a constraint solving problem. You place all screws first, then tig
 
 <details><summary>więcej o złożoności</summary>
 
-Theres a difference between the inherent complexity of the problem you're trying to solve, and the artificial complexity you created by the way you wrote the code.
+There is a difference between the inherent complexity of the problem you're trying to solve, and the artificial complexity you created by the way you wrote the code.
 <https://x.com/DanielcHooper/status/1784983115196207425>
 
 Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it. <http://www.cs.yale.edu/homes/perlis-alan/quotes.html>
