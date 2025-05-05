@@ -131,7 +131,7 @@ Anything that I have to think about that isn't something the CPU is actually doi
 
 Even if Object Oriented Programming wasn't slow (it is), reading a OOP-heavy code base sucks because the logic is broken into little pieces and spread all over. Makes it hard to understand the system as a whole.
 
-Theres a difference between the inherent complexity of the problem you're trying to solve, and the artificial complexity you created by the way you wrote the code.
+There is a difference between the inherent complexity of the problem you're trying to solve, and the artificial complexity you created by the way you wrote the code.
 
 The *whole point* of OOP is to break up logic and data into lots of little objects and have them all talk to each other. So now you have to understand the logic of the problem you're solving *AND* the structure of all the objects you made.
 
