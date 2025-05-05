@@ -87,7 +87,7 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 4. waterfall vs agile
 5. SCRUM to zwykle rak
 6. estymacje są trudne: mnóż x2
-7. Clean Code - Martin Robert C. - to rak
+7. Clean Code - Martin Robert C. - [critic from Fireship](https://youtu.be/niWpfRyvs2U?t=171)
 8. do wcięć kodu używaj spacji zamiast tabów <https://github.com/ziglang/zig/wiki/FAQ#why-does-zig-fmt-use-spaces-instead-of-tabs>
 9. batching
 10. caching
