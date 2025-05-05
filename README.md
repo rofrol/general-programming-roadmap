@@ -98,6 +98,7 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 15. camelCase, snake_case
 16. [Making Impossible States Impossible - Richard Feldman](https://youtube.com/watch?v=IcgmSRJHu_8)
 17. [The life of a file - Evan Czaplicki](https://youtube.com/watch?v=IcgmSRJHu_8)
+18. [Essays on programming I think about a lot | benkuhn.net](https://www.benkuhn.net/progessays/)
 
 ## Paradygmaty itp
 
