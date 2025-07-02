@@ -99,6 +99,7 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 16. [Making Impossible States Impossible - Richard Feldman](https://youtube.com/watch?v=IcgmSRJHu_8)
 17. [The life of a file - Evan Czaplicki](https://youtube.com/watch?v=IcgmSRJHu_8)
 18. [Essays on programming I think about a lot | benkuhn.net](https://www.benkuhn.net/progessays/)
+19. [matklad: A bunch of things I find myself repeatedly referring to in various discussions! ](https://matklad.github.io/links.htm)
 
 ## Paradygmaty itp
 
