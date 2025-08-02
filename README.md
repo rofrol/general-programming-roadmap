@@ -287,3 +287,9 @@ https://x.com/gpu_thief/status/1951382019407319543
 Exception handling is one of these mountains of abstraction. It turns operations that are very fast into operations that are slow (and also slows down the entire program by imposing the constraints required to successfully throw exceptions.)
 
 https://x.com/Jonathan_Blow/status/1951379464400806058
+
+- Make errors values
+- Require handling errors
+- When you do both it makes code clearer, no hidden control flow
+
+https://x.com/canoozie/status/1951520794611155230
