@@ -293,3 +293,20 @@ https://x.com/Jonathan_Blow/status/1951379464400806058
 - When you do both it makes code clearer, no hidden control flow
 
 https://x.com/canoozie/status/1951520794611155230
+
+The Ontic
+@tautolog
+
+The problem is that exceptions make errors not a part of the interface. You write a consumer handling one set of exceptions, then a new exception is introduced by a new feature. The consumer breaks. This is why errors are values.
+
+Dr Whopper
+@BKAngryKing
+
+Claiming errors are values in that scenario does nothing to address the problem of introducing new error states... exceptions handle new error types very elegantly...
+
+The Ontic
+@tautolog
+
+You are seeing them as the same one level deep. Consider multiple levels. When errors are values, the values are reconsidered at each level. You can do that with exceptions, but that is considered an anti-pattern, so unknown errors will raise into higher level libraries.
+
+https://x.com/tautolog/status/1951379964059865461
