@@ -276,3 +276,14 @@ It helps to shut off all notifications on your phone or computer as well, includ
 ## Inne
 
 - [Thorsten Ball - Programming Principles](https://x.com/thorstenball/status/1904602053634383901)
+
+some of the core tensions in software engineering:
+- dev effort vs performance
+- never crash vs fail-fast
+- boilerplate vs hidden magic
+
+https://x.com/gpu_thief/status/1951382019407319543
+
+Exception handling is one of these mountains of abstraction. It turns operations that are very fast into operations that are slow (and also slows down the entire program by imposing the constraints required to successfully throw exceptions.)
+
+https://x.com/Jonathan_Blow/status/1951379464400806058
