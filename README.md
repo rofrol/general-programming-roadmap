@@ -98,6 +98,16 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 15. camelCase, snake_case
 16. [Making Impossible States Impossible - Richard Feldman](https://youtube.com/watch?v=IcgmSRJHu_8)
 17. [The life of a file - Evan Czaplicki](https://youtube.com/watch?v=IcgmSRJHu_8)
+
+
+<details><summary>więcej</summary>
+ 
+bring on the 10k line files! IMO: most programs flow best (the data transformations are most clear) when written like a novel, not when written like a choose your own adventure book. the split-everything style is useful for novice programmers who need the equivalent of "see spot run. run spot run". but once someone has read tens or hundreds of thousands of lines of code, they will be slowed down by it. it actually harms programmers' growth to avoid thinking about more state at once, because the mind expands to be able to think about more things, by chunking and pattern matching. the brain can already chunk and pattern match, and doesn't need a function declaration or separate file to do so. functions for reuse, not for partitioning. just use comments for blocks instead, if it helps you.
+
+<https://youtube.com/watch?v=ES5_IWG8rcw>
+
+</details>
+
 18. [Essays on programming I think about a lot | benkuhn.net](https://www.benkuhn.net/progessays/)
 19. [matklad: A bunch of things I find myself repeatedly referring to in various discussions! ](https://matklad.github.io/links.html)
 
