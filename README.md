@@ -171,7 +171,7 @@ What's the point of this ideology masquerading as an engineering discipline if i
 9. synchroniczne vs asynchroniczne: more coupled to less coupled: callback -> one value: promise, async/await, multiple values: observable -> channels
 10. indexing from 0 vs from 1
 11. <https://pl.m.wikipedia.org/wiki/Architektura_wielowarstwowa>
-12. <https://en.wikipedia.org/wiki/Hutber%27s_law>
+12. "His view was that if a company tells you it is 'improving' the service it provides, it almost always means that it will be doing less for you, or charging you more, or both." <https://en.wikipedia.org/wiki/Hutber%27s_law>
 
 ## Data-Oriented Design (DOD) lepsze niż Resource Acquisition Is Initialization (RAII)
 
