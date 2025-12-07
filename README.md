@@ -83,7 +83,23 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 </details>
 
 2. <https://danielchasehooper.com/posts/good-ideas-in-cs/>
-3. warstwy abstrakcji: [Abstraction principle](https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming)), [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming))
+3. warstwy abstrakcji: [Abstraction principle](https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming)), [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)).
+<details><summary>więcej o repeat yourself, rule of three</summary>
+
+@nicbarkeragain
+
+So many times early in my career I spent way too long on some abstraction / interface in preparation for a second variant, only to find that when I actually built it, the reality of the two was so different that the abstraction made them _both_ worse.
+
+@amfetamigo
+
+what sucks is how they slowly desync. one will have some set of nice things, the other will have this other set of nice things. yet not necessarily worth solving with abstraction either so the only tool left is eternal vigilance 
+
+@jimmy__lefevre
+
+wait to have 3 [meaningfully different] use cases before factoring out the code.
+
+https://x.com/nicbarkeragain/status/1996762430010282344
+</details>
 4. waterfall vs agile
 5. SCRUM to zwykle rak
 6. estymacje są trudne: mnóż x2
