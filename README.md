@@ -42,6 +42,7 @@ It’s always a constraint solving problem. You place all screws first, then tig
 2. vscode
 3. neovim
 4. zed
+5. ki editor
 
 ## Przydatne
 
@@ -126,6 +127,7 @@ bring on the 10k line files! IMO: most programs flow best (the data transformati
 
 18. [Essays on programming I think about a lot | benkuhn.net](https://www.benkuhn.net/progessays/)
 19. [matklad: A bunch of things I find myself repeatedly referring to in various discussions! ](https://matklad.github.io/links.html)
+20. https://addyosmani.com/blog/21-lessons/
 
 ## Paradygmaty itp
 
