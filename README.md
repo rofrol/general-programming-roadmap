@@ -183,6 +183,8 @@ What's the point of this ideology masquerading as an engineering discipline if i
 <https://x.com/SebAaltonen/status/1848251209129275789>
 
 <https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html>
+
+https://zylinski.se/posts/know-why-you-dont-like-oop/
 </details>
 
 7. język dynamiczny vs typowany
