@@ -280,6 +280,14 @@ Fitzpatrick: Czasami. Zawsze jednak zaczynałem pracę od najtrudniejszych eleme
 3. <https://x.com/NeetAcc/status/1828059231120961655>
 4. <https://x.com/NeetAcc/status/1828111694616559719>
 
+## LLM
+
+<details><summary>Karl Zylinski o LLM</summary>
+I’ve also made a Linux ALSA backend that turned out quite simple: audio_backend_alsa.odin. For that backend, I tried having GitHub copilot help me write the basics. I haven’t used AI/LLM stuff much before. It gave a good foundation, including creating the ALSA bindings. But I made sure to understand every binding it added: I looked at the documentation of the ALSA procedures and made sure they were what I needed. I had to edit the code it wrote a lot, removing over-complicated stuff and stuff that felt off. The result is 146 lines of ALSA backend and 49 lines of ALSA bindings.
+
+Use LLMs with great care. Use them for contained things where you can understand all the things without being overwhelmed. The moment you accept code into your code base without understanding it, then you are on a slippery slope towards slop. If you can’t fight that urge, then just stop using such tools. It will ruin your code since you will lose control over it, making it unmaintainable. If you accept slop then very soon the only way to maintain the repository is to go 100% vibe code. And then you have no idea what you are making anymore. The craft is then dead.
+<details>
+
 ## Zdrowie
 
 1. sen, odpoczynek, skupienie, podnoszenie ciężarów/kalistenika/sztuki walki
